@@ -1,5 +1,5 @@
 
-#JotNotes
+**JotNotes**
 JotNotes is a simple and intuitive notes app built with Flutter, making it easy to jot down quick notes on the go.
 
 ## Features
@@ -12,11 +12,6 @@ JotNotes is a simple and intuitive notes app built with Flutter, making it easy 
 - **User-friendly** and **intuitive** UI
 
 ## Screenshots
-![App Screenshot 1]()
-![App Screenshot 2]()
-![App Screenshot 4]()
-![App Screenshot 4]()
-
 <img src="https://github.com/Q4Qoph/Flutter-Note-App-with-SQLite/assets/89646901/51ffb727-5722-4d91-aff7-9ad5e417b89e.png" alt="App Screenshot 1" width="100"/>
 <img src="https://github.com/Q4Qoph/Flutter-Note-App-with-SQLite/assets/89646901/b5e4576c-0850-42fb-a9c4-ffa05e848648.png" alt="App Screenshot 2" width="100"/>
 <img src="https://github.com/Q4Qoph/Flutter-Note-App-with-SQLite/assets/89646901/546f2c51-422a-4595-abb6-2babef14dceb.png" alt="App Screenshot 3" width="100"/>
